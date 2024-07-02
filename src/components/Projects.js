@@ -49,7 +49,7 @@ const getBadgeVariant = (tech) => {
 const Projects = () => {
   return (
     <Container id="projects" className="my-5 projects">
-      <h2 className="text-light project-title">Projects</h2>
+      <h2 className="text-light project-title">Projects 🛠️</h2>
       <Row>
         {projects.map((project, i) => (
           <Col md={4} key={project.id} className="mb-4">

@@ -76,7 +76,7 @@ const Eduex = () => {
     <Container id="education-work" className="my-5">
       <Row>
         <Col md={6} className="mb-4">
-          <h2 className="text-light">Education</h2>
+          <h2 className="text-light">Education 🎓</h2>
           {educationData.map((education) => (
             <Card key={education.id} className="bg-dark text-light mb-3">
               <Card.Body>
@@ -101,7 +101,7 @@ const Eduex = () => {
           ))}
         </Col>
         <Col md={6} className="mb-4">
-          <h2 className="text-light">Work Experience</h2>
+          <h2 className="text-light">Work Experience 🏢</h2>
           {workData.map((work) => (
             <Card key={work.id} className="bg-dark text-light mb-3">
               <Card.Body>
