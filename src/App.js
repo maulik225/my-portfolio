@@ -6,6 +6,7 @@ import Projects from './components/Projects';
 import Eduex from './components/Eduex';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
+import { Analytics } from "@vercel/analytics/react"
 
 const App = () => {
   return (
@@ -18,6 +19,7 @@ const App = () => {
         {/* <Contact /> */}
       </main>
       <Footer />
+      <Analytics />
     </div>
   );
 };
