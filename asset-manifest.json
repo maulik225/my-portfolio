@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.f8d31e78.css",
-    "main.js": "/my-portfolio/static/js/main.50dc67ea.js",
-    "static/media/gtu_logo.png": "/my-portfolio/static/media/gtu_logo.50973d9c315c993fc4c0.png",
-    "static/media/imdb.png": "/my-portfolio/static/media/imdb.025cc41d0ed94019a488.png",
-    "static/media/unipd_logo.png": "/my-portfolio/static/media/unipd_logo.5e377a2ec75a63a2814f.png",
-    "static/media/flood_detect.png": "/my-portfolio/static/media/flood_detect.a87ec2a3ab22d7584f0b.png",
-    "static/media/numberpuzzle.png": "/my-portfolio/static/media/numberpuzzle.194694927e8cddf361f5.png",
-    "static/media/robust_network.png": "/my-portfolio/static/media/robust_network.f0e73ac504d356ac99ed.png",
-    "static/media/avtar.jpeg": "/my-portfolio/static/media/avtar.8f147efac9314870b600.jpeg",
-    "static/media/sagebot.png": "/my-portfolio/static/media/sagebot.b8a642f4f68819b074b9.png",
-    "static/media/spellchecker.png": "/my-portfolio/static/media/spellchecker.335c757121dd5a57c0bb.png",
-    "static/media/recipe.png": "/my-portfolio/static/media/recipe.5970ea99bf9899f395f8.png",
-    "index.html": "/my-portfolio/index.html",
-    "main.f8d31e78.css.map": "/my-portfolio/static/css/main.f8d31e78.css.map",
-    "main.50dc67ea.js.map": "/my-portfolio/static/js/main.50dc67ea.js.map"
+    "main.css": "/static/css/main.f8d31e78.css",
+    "main.js": "/static/js/main.98d434a1.js",
+    "static/media/gtu_logo.png": "/static/media/gtu_logo.50973d9c315c993fc4c0.png",
+    "static/media/imdb.png": "/static/media/imdb.025cc41d0ed94019a488.png",
+    "static/media/unipd_logo.png": "/static/media/unipd_logo.5e377a2ec75a63a2814f.png",
+    "static/media/flood_detect.png": "/static/media/flood_detect.a87ec2a3ab22d7584f0b.png",
+    "static/media/numberpuzzle.png": "/static/media/numberpuzzle.194694927e8cddf361f5.png",
+    "static/media/robust_network.png": "/static/media/robust_network.f0e73ac504d356ac99ed.png",
+    "static/media/avtar.jpeg": "/static/media/avtar.8f147efac9314870b600.jpeg",
+    "static/media/sagebot.png": "/static/media/sagebot.b8a642f4f68819b074b9.png",
+    "static/media/spellchecker.png": "/static/media/spellchecker.335c757121dd5a57c0bb.png",
+    "static/media/recipe.png": "/static/media/recipe.5970ea99bf9899f395f8.png",
+    "index.html": "/index.html",
+    "main.f8d31e78.css.map": "/static/css/main.f8d31e78.css.map",
+    "main.98d434a1.js.map": "/static/js/main.98d434a1.js.map"
   },
   "entrypoints": [
     "static/css/main.f8d31e78.css",
-    "static/js/main.50dc67ea.js"
+    "static/js/main.98d434a1.js"
   ]
 }
