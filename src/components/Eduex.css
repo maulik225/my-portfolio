@@ -1,0 +1,46 @@
+/* src/components/EducationAndWork.css */
+
+#education-work {
+    background-color: #1e1e1e;
+    padding: 2rem 1rem;
+  }
+  
+  #education-work h2 {
+    margin-bottom: 1.5rem;
+  }
+  
+  .card {
+    border: none;
+  }
+  
+  .card-body {
+    padding: 1.25rem;
+  }
+  
+  .card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+  }
+  
+  .card-subtitle {
+    font-size: 1rem;
+    color: rgba(255, 255, 255, 0.75);
+  }
+  
+  .card-text {
+    font-size: 0.9rem;
+  }
+  .education-logo{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border-radius: 100%;
+  }
+  .work-logo{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+  }
+  .card-content{
+    margin-left: 25px;
+  }

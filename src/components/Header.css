@@ -1,0 +1,29 @@
+/* src/components/Header.css */
+.custom-navbar {
+    background-color: #121212;
+    padding: 1rem 2rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .navbar-brand-custom {
+    display: flex;
+    align-items: center;
+    font-size: 1.25rem;
+    font-weight: bold;
+  }
+  
+  .navbar-brand-custom img {
+    margin-right: 10px;
+  }
+  
+  .nav-link-custom {
+    color: rgba(255, 255, 255, 0.75) !important;
+    margin-right: 1rem;
+    font-size: 1rem;
+    transition: color 0.3s;
+  }
+  
+  .nav-link-custom:hover {
+    color: #fff !important;
+  }
+  

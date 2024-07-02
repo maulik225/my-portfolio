@@ -1,0 +1,48 @@
+.project-title{
+    margin-bottom: 15px;
+}
+
+.projects {
+    background-color: #343a40;
+    padding: 20px;
+  }
+  
+  .project-title {
+    margin-bottom: 30px;
+  }
+  
+  .card {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .card-body {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+  }
+  
+  .tags .badge {
+    margin-right: 5px;
+  }
+  
+  .img-fluid {
+    width: 100%;
+    height: auto;
+  }
+  
+  .mb-2 {
+    margin-bottom: 0.5rem;
+  }
+  .github-btn{
+    background-color: black;
+    border: none;
+  }
+  .github-btn:hover{
+    background-color: #343a40;
+    border: none;
+  }
+  .github-btn::after{
+    background-color: #343a40;
+    border: none;
+  }
