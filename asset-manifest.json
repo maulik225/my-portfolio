@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.236f363e.css",
-    "main.js": "/my-portfolio/static/js/main.eb39691b.js",
+    "main.css": "/my-portfolio/static/css/main.f8d31e78.css",
+    "main.js": "/my-portfolio/static/js/main.50dc67ea.js",
     "static/media/gtu_logo.png": "/my-portfolio/static/media/gtu_logo.50973d9c315c993fc4c0.png",
     "static/media/imdb.png": "/my-portfolio/static/media/imdb.025cc41d0ed94019a488.png",
     "static/media/unipd_logo.png": "/my-portfolio/static/media/unipd_logo.5e377a2ec75a63a2814f.png",
@@ -13,11 +13,11 @@
     "static/media/spellchecker.png": "/my-portfolio/static/media/spellchecker.335c757121dd5a57c0bb.png",
     "static/media/recipe.png": "/my-portfolio/static/media/recipe.5970ea99bf9899f395f8.png",
     "index.html": "/my-portfolio/index.html",
-    "main.236f363e.css.map": "/my-portfolio/static/css/main.236f363e.css.map",
-    "main.eb39691b.js.map": "/my-portfolio/static/js/main.eb39691b.js.map"
+    "main.f8d31e78.css.map": "/my-portfolio/static/css/main.f8d31e78.css.map",
+    "main.50dc67ea.js.map": "/my-portfolio/static/js/main.50dc67ea.js.map"
   },
   "entrypoints": [
-    "static/css/main.236f363e.css",
-    "static/js/main.eb39691b.js"
+    "static/css/main.f8d31e78.css",
+    "static/js/main.50dc67ea.js"
   ]
 }
