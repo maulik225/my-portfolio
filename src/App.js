@@ -4,11 +4,9 @@ import Header from './components/Header';
 import About from './components/About';
 import Projects from './components/Projects';
 import Eduex from './components/Eduex';
-// import Contact from './components/Contact';
+import Contact from './components/Contact';
 import Footer from './components/Footer';
-import { inject } from '@vercel/analytics';
-
-inject();
+import { Analytics } from "@vercel/analytics/react"
 
 const App = () => {
   return (
@@ -21,6 +19,7 @@ const App = () => {
         {/* <Contact /> */}
       </main>
       <Footer />
+      <Analytics />
     </div>
   );
 };
