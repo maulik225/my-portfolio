@@ -4,7 +4,7 @@ const projects = [
   {
     title: 'Movie Recommendation System',
     description: 'Built a content-based Movie Recommendation System using Scikit-learn for ML, FastAPI for API, and React for frontend. Created an IMDb-like clone with personalized recommendations.',
-    image: 'https://maulik225.github.io/my-portfolio/static/media/imdb.025cc41d0ed94019a488.png',
+    image: 'src/assets/imdb.png',
     skills: ['Python', 'FastAPI', 'Scikit-learn', 'React'],
     github: 'https://github.com/maulik225/ml_api',
     colorClasses: { text: 'text-primary', bg: 'bg-primary/10' },
@@ -12,7 +12,7 @@ const projects = [
   {
     title: 'Flood Detection System',
     description: 'AI-powered flood detection system analyzing images to identify flood-affected areas. Helps authorities plan relief operations and rescue missions effectively.',
-    image: 'https://maulik225.github.io/my-portfolio/static/media/flood_detect.a87ec2a3ab22d7584f0b.png',
+    image: 'src/assets/flood_detect.png',
     skills: ['Python', 'PyTorch', 'TensorFlow', 'Streamlit'],
     github: 'https://github.com/MojammelHossain/flood_detection',
     colorClasses: { text: 'text-secondary', bg: 'bg-secondary/10' },
@@ -20,7 +20,7 @@ const projects = [
   {
     title: 'SageBot - NLP Chatbot',
     description: 'Developed SageBot, an intuitive chatbot leveraging NLP to enhance digital accessibility for individuals with limited computer proficiency.',
-    image: 'https://maulik225.github.io/my-portfolio/static/media/sagebot.b8a642f4f68819b074b9.png',
+    image: 'src/assets/sagebot.png',
     skills: ['React', 'Flask', 'Scikit-learn', 'Firebase'],
     github: 'https://github.com/maulik225/SageBot_backend',
     colorClasses: { text: 'text-accent', bg: 'bg-accent/10' },
@@ -28,7 +28,7 @@ const projects = [
   {
     title: 'Multilingual Spellchecker API',
     description: 'Flask and Hunspell-based spellchecker API providing robust spell-checking capabilities in English, French, and Italian.',
-    image: 'https://maulik225.github.io/my-portfolio/static/media/spellchecker.335c757121dd5a57c0bb.png',
+    image: 'src/assets/spellchecker.png',
     skills: ['Python', 'Flask', 'Hunspell'],
     github: 'https://github.com/maulik225/spellcheckerAPI-Using-Flask',
     colorClasses: { text: 'text-primary', bg: 'bg-primary/10' },
@@ -36,7 +36,7 @@ const projects = [
   {
     title: 'Network Robustness Analysis',
     description: 'Explores and compares robustness metrics for road networks, analyzing behavior under random and targeted attacks across European countries.',
-    image: 'https://maulik225.github.io/my-portfolio/static/media/robust_network.f0e73ac504d356ac99ed.png',
+    image: 'src/assets/robust_network.png',
     skills: ['Python', 'NetworkX', 'Matplotlib', 'Graphs'],
     github: 'https://github.com/maulik225/Robustness-of-network',
     colorClasses: { text: 'text-secondary', bg: 'bg-secondary/10' },
@@ -44,7 +44,7 @@ const projects = [
   {
     title: 'Recipe Sharing Platform',
     description: 'A platform enabling users to create, share, and save recipes, fostering an interactive community for culinary enthusiasts.',
-    image: 'https://maulik225.github.io/my-portfolio/static/media/recipe.5970ea99bf9899f395f8.png',
+    image: 'src/assets/recipe.png',
     skills: ['Java', 'Servlets', 'PostgreSQL', 'Bootstrap'],
     github: 'https://github.com/maulik225',
     colorClasses: { text: 'text-accent', bg: 'bg-accent/10' },

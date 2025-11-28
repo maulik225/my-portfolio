@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dell Laptop
+* source:	https://sketchfab.com/3d-models/dell-laptop-1190bd8ffa3247698245fd5e3b4031e6
+* author:	Xinyiii (https://sketchfab.com/Xinyiii)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dell Laptop" (https://sketchfab.com/3d-models/dell-laptop-1190bd8ffa3247698245fd5e3b4031e6) by Xinyiii (https://sketchfab.com/Xinyiii) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
