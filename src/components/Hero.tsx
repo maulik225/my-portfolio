@@ -45,13 +45,13 @@ export const Hero = () => {
 
             <div className="opacity-0 animate-fade-in-up animation-delay-600 flex flex-wrap gap-4 justify-center lg:justify-start">
               <a
-                href="#contact"
+                href="#/contact"
                 className="px-8 py-4 rounded-lg bg-primary text-primary-foreground font-medium hover:glow-primary transition-all duration-300 hover:scale-105"
               >
                 Get in Touch
               </a>
               <a
-                href="#projects"
+                href="#/projects"
                 className="px-8 py-4 rounded-lg glass text-foreground font-medium hover:bg-muted transition-all duration-300"
               >
                 View Projects
@@ -105,7 +105,7 @@ export const Hero = () => {
 
         {/* Scroll Indicator */}
         <div className="absolute bottom-8 left-1/2 -translate-x-1/2 animate-bounce">
-          <a href="#about" className="text-muted-foreground hover:text-primary transition-colors">
+          <a href="#/about" className="text-muted-foreground hover:text-primary transition-colors">
             <ArrowDown size={24} />
           </a>
         </div>
