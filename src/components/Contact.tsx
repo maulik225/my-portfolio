@@ -16,7 +16,7 @@ export const Contact = () => {
     // Create mailto link
     const subject = encodeURIComponent(`Portfolio Contact from ${formData.name}`);
     const body = encodeURIComponent(`Name: ${formData.name}\nEmail: ${formData.email}\n\nMessage:\n${formData.message}`);
-    window.location.href = `mailto:mauliksompura225@gmail.com?subject=${subject}&body=${body}`;
+    window.location.href = `mailto:msompura0@gmail.com?subject=${subject}&body=${body}`;
     
     toast({
       title: "Opening email client...",
@@ -46,7 +46,7 @@ export const Contact = () => {
               
               <div className="space-y-4">
                 <a
-                  href="mailto:mauliksompura225@gmail.com"
+                  href="mailto:msompura0@gmail.com"
                   className="flex items-center gap-4 p-4 rounded-xl bg-muted/50 hover:bg-muted transition-colors group"
                 >
                   <div className="p-3 rounded-lg bg-primary/20">
@@ -55,7 +55,7 @@ export const Contact = () => {
                   <div>
                     <p className="text-sm text-muted-foreground">Email</p>
                     <p className="font-medium group-hover:text-primary transition-colors">
-                      mauliksompura225@gmail.com
+                      msompura0@gmail.com
                     </p>
                   </div>
                 </a>
